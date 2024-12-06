@@ -5,3 +5,4 @@
 - Day3 Go ⭐⭐
 - Day4 Python ⭐⭐
 - Day5 Perl ...
+- Day6 Lua ⭐
